@@ -9,7 +9,7 @@ node {
 
         stage('Prepare') {
             // Get code from the git repository
-            sh('echo "----> Building..."')
+            sh('echo "----> Buildingg..."')
             // git branch: upstreamBranch, credentialsId: gitCredentialsId, url: gitRepo
         }
 
